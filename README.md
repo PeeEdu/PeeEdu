@@ -31,8 +31,8 @@
 
 ---
 
-## 🎵 Vibez extras
-> Sempre codando ao som de um bom **Psytrance** 🎶  
+## 🎵 Vibes extras
+> Sempre codando ao som de um bom **Rock e Psytrance** 🎶
 
 ---
 
