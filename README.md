@@ -17,6 +17,7 @@
 ---
 
 ## 📌 Projetos em Destaque
+🔹 [**sistema-de-monitramento-e-fraude**]((https://github.com/PeeEdu/sistema-pagamentos-monitoramento-fraude)) – Um sistema backend de microsserviço para monitoramento e fraude bancária
 🔹 [**myRave-backend-repo**](https://github.com/PeeEdu/myRave-backend-repo) – API para sistema de tickets e infos de festas Rave 🪩  
 🔹 [**SmartInvest-backend**](https://github.com/PeeEdu/Smartinvest-backend-repo) – Backend para simulação de investimentos 📈  
 🔹 [**SmartInvest-frontend**](https://github.com/PeeEdu/SmartInvest-frontend) – Frontend em Next.js para simular investimentos 💸  
